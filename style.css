@@ -1,0 +1,79 @@
+.background{
+    width:100%;
+    height:100%;
+    z-index: 100;
+}
+
+div .heading{
+    text-align: center;
+    position:absolute;
+    top:2%;
+    left:25%;
+    right:25%;
+    color:black;
+    font-size: 50px;
+    font-family: "shadows into light",sans-serif;
+    z-index: 300;
+}
+div>.content{
+    position:absolute;
+    text-align: center;
+    font-family: "abril fatface",sans-serif;
+    font-size: 17px;
+    top:50%;
+    left:25%;
+    right:25%;
+    z-index: 300;
+}
+div .qualities{
+    position:absolute;
+    font-family: "dancing script",sans-serif;
+    font-size: 30px;
+    top:75%;
+    z-index: 300;
+    left:25%;
+    right:25%;
+}
+div .conclusion{
+    font-family: "rubik bubbles",sans-serif;
+    position:absolute;
+    top:150%;
+    font-size:40px;
+    left:25%;
+    right:25%;
+    text-align: center;
+    z-index: 300;
+}
+
+.image3{
+    z-index:200;
+    height:275px;
+    width:100%;
+    position:absolute;
+    top:0%;
+    left:0%;
+}
+.image2{
+    z-index:200;
+    height:300px;
+    width:100%;
+    position:absolute;
+    top: 50%;
+    left:0%;
+}
+.image4{
+    z-index:200;
+    height:275px;
+    width:100%;
+    position:absolute;
+    top:100%;
+    left:0%;
+}
+.image1{
+    z-index:175;
+    height:402px;
+    width:100%;
+    position:absolute;
+    top: 150%;
+    left:0%;
+}
